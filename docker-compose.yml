@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  m4b-tool:
+    image: 9madmax5/m4b-tool
+    container_name: m4b-tool
+    volumes:
+      - /path/to/config:/config
+      - /path/to/temp:/temp
+      - /path/to/original:/original
+      - /path/to/backup:/backup
