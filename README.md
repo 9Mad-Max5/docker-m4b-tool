@@ -3,7 +3,7 @@ This container is mostly based on m4b-tool.
 https://github.com/sandreas/m4b-tool
 sandreas made a really good job there.
 
-## What's it' intend?
+## What's it's intend?
 This docker was made to make it even easier to follow this guide:
 https://github.com/seanap/Plex-Audiobook-Guide
 
